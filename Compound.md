@@ -7,7 +7,7 @@ Make sure compounds are rather tight-fitting. A lot of empty space within a comp
 Also note that when shapes are merged into a compound they will all be aligned the same way. You can still merge shapes with different rotation into a compound, but it usually works best if they are at 90 degree angles.  
 
 Built-in tags:  
-unbreakable: All shapes in body indestructible  
-interact=message: Make shape interactable  
-explosive=size: Explode when broken  
-nocull: Disable distance culling
+> **unbreakable**: All shapes in body indestructible  
+> **interact=message**: Make shape interactable  
+> **explosive=size**: Explode when broken  
+> **nocull**: Disable distance culling
