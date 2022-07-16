@@ -1,4 +1,5 @@
-## Controls
+### [Back](README.md)
+# Controls
 > F5 - Play level in preview mode. Level is not saved  
 > F4 - Return to editor from preview mode  
 Hold right mouse button + F5 - Play level with spawn point at mouse pointer  

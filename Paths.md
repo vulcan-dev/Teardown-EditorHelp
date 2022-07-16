@@ -1,3 +1,4 @@
+### [Back](README.md)
 # Paths
 All paths in the teardown editor uses the following convention:  
 

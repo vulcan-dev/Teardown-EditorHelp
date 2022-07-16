@@ -1,3 +1,4 @@
+### [Back](README.md)
 # Nodes and properties
 The scene explorer contains a hierarchy of nodes. When selecting a node the node properties will show up in the properties window. Hover over a property field to see description.  
 
