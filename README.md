@@ -2,7 +2,7 @@
 
 [General](./General.md)  
 [Controls](./Controls.md)  
-[Nodes and properties](./NodesAndProperties.md)
+[Nodes and properties](./NodesAndProperties.md)  
 [Paths](./Paths.md)  
 [Bodies and shapes](./BodiesAndShapes.md)  
 [Layers](./Layers.md)  
