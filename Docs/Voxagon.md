@@ -1,6 +1,6 @@
-### [Back](README.md)
-# Voxscript
-This is an advanced feature that is used for procedurally generating voxel objects with a Lua script.
+### [Back](../README.md)
+# Voxagon
+A voxagon is similar to a voxbox, but the geometry is an extruded 2D polygon. This is useful to create more irregular shapes.
 
 Built-in tags:  
 > **unbreakable**: All shapes in body indestructible  

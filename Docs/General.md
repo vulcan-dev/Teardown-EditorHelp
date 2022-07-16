@@ -1,4 +1,4 @@
-### [Back](README.md)
+### [Back](../README.md)
 # General
 The teardown editor is used in combination with MagicaVoxel to create content for Teardown.
 

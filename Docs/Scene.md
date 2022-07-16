@@ -1,4 +1,4 @@
-### [Back](README.md)
+### [Back](../README.md)
 # Scene
 This is the root node for each level. It is mostly used to configure the shadow volume size. A level can only have one scene node.  
 
